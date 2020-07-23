@@ -1,0 +1,11 @@
+float64 deltaX
+float64 deltaY
+float64 deltaZ
+float64 contacted
+float64 ori_x
+float64 ori_y
+float64 ori_z
+float64 ori_w
+float64 vel_x
+float64 vel_y
+float64 vel_z
